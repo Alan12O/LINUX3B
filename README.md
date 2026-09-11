@@ -1,2 +1,2 @@
 # LINUX3B
-Repositorio de linux 3B, Periodo Agosto-Diciembre
+Repositorio de linux 3B, Periodo Agosto-Diciembre, Alan Baruch Hernandez Renteria
